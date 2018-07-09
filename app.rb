@@ -1,6 +1,6 @@
-require 'hello'
-require 'goodbye'
-require 'date'
+# require 'hello'
+# require 'goodbye'
+# require 'date'
 
 class App < Sinatra::Base
 
